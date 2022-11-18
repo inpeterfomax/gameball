@@ -7,4 +7,6 @@ To compile enter the directory where the gameball files are stored, and type "ma
 gameball.c  - Source code
 Makefile - may have to be edited based on your development enviornment
 
-Compilation of code required Xlib library.
+Compilation of code requires Xlib library.
+
+Press left and right arrow buttons to move paddle at the bottom of the screen and make sure the ball dosn't fall below. Press "r" to restart and "e" to exit. 
