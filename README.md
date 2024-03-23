@@ -10,3 +10,5 @@ Makefile - may have to be edited based on your development enviornment
 Compilation of code requires Xlib library.
 
 Press left and right arrow buttons to move paddle at the bottom of the screen and make sure the ball dosn't fall below. Press "r" to restart and "e" to exit. 
+
+# for test. the git fetch and git merge function.
